@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseurl = "https://2024.pass-the-salt.org"
+baseurl = "https://2025.pass-the-salt.org"
 title = "Pass the SALT 2024"
 theme = "vex-hugo"
 # post excert
@@ -78,7 +78,7 @@ weight = 1
 
 [[menu.main]]
 name = "Practical"
-url = "https://2024.pass-the-salt.org/practical/"
+url = "https://2025.pass-the-salt.org/practical/"
 weight = 4
 
 #[[menu.main]]
