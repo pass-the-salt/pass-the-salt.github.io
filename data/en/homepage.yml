@@ -6,7 +6,7 @@ banner:
   image: "images/logo-pts23.png"
   button:
     enable: true
-    label: "Watch 2024 videos!"
+    label: "Watch 2024 edition videos!"
     link: "https://passthesalt.ubicast.tv/channels/#2024"
 
 ############################# description ############################
