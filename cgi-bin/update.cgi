@@ -3,12 +3,12 @@
 # From https://theowinter.ch/articles/Use-cgi-bin-to-automate-Jekyll/
 
 #Script is executed by www-data user. It needs to have write-access to
-#/var/www/2024 & /var/www/2024-passthesalt/
+#/var/www/2025 & /var/www/2025-passthesalt/
 echo "Content-type: text/plain"
 echo
-echo "Checking for updates to 2024..."
+echo "Checking for updates to 2025..."
 exec 2>&1
-cd /var/www/2024
+cd /var/www/2025
 
 #Check if there are changes
 if git checkout main &&
@@ -18,7 +18,7 @@ if git checkout main &&
 then
     echo 'Changes found, syncing.'
     # sync Hugo generated content in public directory with the directory of the website already online
-    rsync -av --delete /var/www/2024/public/ /var/www/2024-passthesalt/
+    rsync -av --delete /var/www/2025/public/ /var/www/2025-passthesalt/
 else
     echo 'Not updated.'
 fi
