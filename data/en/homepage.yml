@@ -20,7 +20,7 @@ description:
     # feature item loop
     - title: "High quality talks"
       icon: "tf-ion-ios-mic"
-      content: "2024 edition hosts **21 talks** covering **10 Security topics** (WebPKI, DFIR & TI, Reverse, Network Detectection etc). Talks are all delivered **by experts**."
+      content: "2024 edition hosted **21 talks** covering **10 Security topics** (WebPKI, DFIR & TI, Reverse, Network Detectection etc). Talks are all delivered **by experts**."
 
       # feature item loop
     - title: "Quality Networking in a friendly French atmosphere"
@@ -32,7 +32,7 @@ description:
     # feature item loop
     - title: "Workshops"
       icon: "tf-ion-ios-flask"
-      content: "We will host no less than **9 workshops**. They are all be given **by a project developer/maintainer or an expert on the field**.<br>Come to discover and practice!"
+      content: "Last year, we have hosted **9 workshops**. All given **by a project developer/maintainer or an expert on the field**.<br>Come to discover and practice!"
 
       # feature item loop
     - title: "Previous editions"
@@ -56,8 +56,8 @@ timeline:
   image: "images/speaker.jpg"
   title: "Timeline"
   content:
-    "<span style='color:$primary-color'><b> >December 2024:  of the 2025 edition (dates, location)</b></span><br />
-    January 15, 2025: opening of the Call For Papers<br />
+    "December 2024:  of the 2025 edition (dates, location)<br />
+    <span style='color:$primary-color'><b> >January 15, 2025: opening of the Call For Papers</b></span><br />
     March 30, 2025: closing of the Call For Papers<br/>
     Late April, 2025: notification to the speakers<br/>
     May 5, 2025: publication of the program & booking site<br />

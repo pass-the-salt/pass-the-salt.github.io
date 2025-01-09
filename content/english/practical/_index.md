@@ -13,6 +13,9 @@ After some research, we are very pleased and honoured to announce that the **202
 
 More detailled information will come soon here.
 
+<img src="/images/2025-hosting.jpeg" alt="2025 Pass the SALT will be hosted by Université catholique de Lille" width="600"/>
+
+
 <!--
 <a href="#coming-to-the-conference-location-from-lille-center">How to come</a> | <a href="#registration"> Registration</a> | <a href="#eat--drink--party">Eat, drink and party</a> | <a href="#network-access">Network access</a> | <a href="#safety--covid-information"> Safety & COVID</a>
 <br><br>
