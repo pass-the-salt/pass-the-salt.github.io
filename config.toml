@@ -1,6 +1,6 @@
 ################################### Default Configuration ############################
 baseurl = "https://2025.pass-the-salt.org"
-title = "Pass the SALT 2024"
+title = "Pass the SALT 2025"
 theme = "vex-hugo"
 # post excert
 summarylength = "20"
