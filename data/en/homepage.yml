@@ -176,6 +176,14 @@ sponsors:
   #   url: "https://www.randorisec.fr/"
   #   height: "76"
   #   width: "400"  
+    - name: "Epsilon"
+      designation: "SILVER sponsor"
+      image: "images/sponsors/epsilon.png"
+      content: ""
+      url: "https://www.epsilon-sec.com/"
+      height: "132"
+      width: "320"  
+
   partner_item:
   # partners loop
   # - name: "Polytech"
