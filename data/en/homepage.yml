@@ -72,22 +72,25 @@ testimonial:
     - name: "Orange Tsaï"
       designation: "Principal security researcher at DEVCORE, multiple times PwnieAwards and Master of Pwn winner"
       image: "images/orange.png"
-      content: "My slides 'Hacking Jenkins' for #pts19 and #HITBAMS is out! This is my first time to go to France and Pass the SALT (@passthesaltcon
-) is such a really really good and interesting conference!"
+      content: "My slides 'Hacking Jenkins' for #pts19 and #HITBAMS is out! This is my first time to go to France and Pass the SALT (@passthesaltcon ) is such a really really good and interesting conference!"
+
+    # testimonial item loop
+    - name: "Aaron Gable"
+      designation: "Let's Encrypt software development team Technical Lead "
+      image: "images/aaron.jpeg"
+      content: "PTS 2024 was fantastic and loads of fun, strongly recommend putting together a talk and attending!<br><br><br>"
 
     # testimonial item loop
     - name: "Peter Czanik"
       designation: "@sngose & @SudoProject evangelist at @BalaBit (@oneidentity)"
       image: "images/peter.jpg"
-      content: "'My favorite #infosec conference: @passthesaltcon
-. It has less visitors than #FOSDEM has speakers, but I learned there more than at any other events.<br><br>"
+      content: "'My favorite #infosec conference: @passthesaltcon. It has less visitors than #FOSDEM has speakers, but I learned there more than at any other events.<br><br>"
 
     # testimonial item loop
     - name: "Ange Albertini"
       designation: "Corkami, CPS2Shock, PoC||GTFO, Sha1tered. Security engineer @ Google. He/him."
       image: "images/ange.jpg"
       content: "@passthesaltcon The conference gave me a lot of energy and inspiration. Thanks to all of you!<br><br><br><br>"
-
 
 ############################## sponsors ##########################
 sponsors:
