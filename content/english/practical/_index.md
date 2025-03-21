@@ -6,22 +6,58 @@ published: true
 lang: en
 ref: Practical
 ---
-
-Due to agenda conflict, we haven't been able to have Pass the SALT hosted by Polytech school as years before.<br><br>
-
-After some research, we are very pleased and honoured to announce that the **2025 edition of Pass the SALT conference will be held** on the beautiful **Université Catholique de Lille** campus in Lille center.
-
-More detailled information will come soon here.
-
-<img src="/images/2025-hosting.jpeg" alt="2025 Pass the SALT will be hosted by Université catholique de Lille" width="85%"/>
-
-
-<!--
-<a href="#coming-to-the-conference-location-from-lille-center">How to come</a> | <a href="#registration"> Registration</a> | <a href="#eat--drink--party">Eat, drink and party</a> | <a href="#network-access">Network access</a> | <a href="#safety--covid-information"> Safety & COVID</a>
+<a href="#conference-location">How to come</a> | <a href="#registration"> Registration</a> 
 <br><br>
+
+**NEW in 2025:** we are very pleased and honoured to announce that the 2025 edition of Pass the SALT conference will be held on the **Université Catholique de Lille** campus in Lille center.
+
+<img src="/images/2025-hosting.jpeg" alt="2025 Pass the SALT will be hosted by Université catholique de Lille" width="85%"/> <br>
 
 ## Conference location
 
+- <a href="https://www.univ-catholille.fr/en/">Université Catholique de Lille </a>:
+83 Bd Vauban, 59800 Lille<br />
+- Inside school location: campus Saint Raphaël, Building Louise WEISS (amphi 122 + rooms LW109 & LW112)
+- Maps: <a href="https://maps.app.goo.gl/J2uYiRaoKP7VmMSk8" >Google Maps</a> | <a href="https://osm.org/go/0EgIjC2uR" >Openstreetmap</a> <br>
+
+
+## Coming to the conference location from Lille stations area 
+
+- <b>Bus:</b> take line **L5** (~17min)
+- reach the _"Gare Lille Flandres"_ [bus stop](https://maps.app.goo.gl/DhmhktrX1PyJCVrh6). It is located 150m from the Lille Flandres station exit on your right. And it is located at 300m from the Lille Europe station exit in direction the the center of Lille.
+  - take the L5 bus (direction _"Le Parc (Haubourdin)"_) and get off the bus at the _"Université Catholique"_ stop. 
+  - _More info about the public transport network in Lille: [ilevia.fr](https://www.ilevia.fr/itineraires)_
+- <b>On foot:</b> 30min.
+
+## Coming to Lille from Paris
+
+- **from "Gare du Nord" station:** take TGV train to _"Lille Europe"_ or _"Lille Flandres"_ stations : 60 min
+- **from "Paris Roissy Charles de Gaulle airport" (CDG)** : take TGV train at _"Charles de Gaulle"_ train station inside the airport to _"Lille Europe"_ station : 50 min
+
+## Coming to Lille from Brussels
+
+- **from Brussels Midi train station** : take a TGV or Thalys or Eurostar train to _"Lille Europe"_ station : 35 min
+- **from Brussels National airport (BRU)** : use a national train to reach _"Brussels Midi"_ station (_Zuidstation_ in Dutch): 30-40 min. Then, take a TGV or Thalys or Eurostar train to reach _"Lille Europe"_ station.
+
+To book trains:
+- **France:** <a href="https://www.sncf-connect.com/en-en/">https://www.sncf-connect.com/en-en/</a>. <br>
+- **Belgium:** <a href="https://www.b-europe.com/EN">https://www.b-europe.com/EN</a>
+<br>
+
+## Registration
+The booking website will be online on May, 1st 2025.
+
+Before coming to the conference:
+- Be registered online 
+- Print your ticket or have the PDF version with you on your smartphone.
+
+<br>
+
+<!--
+<a href="#coming-to-the-conference-location-from-lille-flandres-stations">How to come</a> | <a href="#registration"> Registration</a> | <a href="#eat--drink--party">Eat, drink and party</a> | <a href="#network-access">Network access</a> | <a href="#safety--covid-information"> Safety & COVID</a>
+<br><br>
+
+## Conference location
 
 <a href="http://www.polytech-lille.fr/english-p4664.html">Polytech Lille engineer school</a>:
 avenue Paul Langevin 59655 Villeneuve d'Ascq<br />
