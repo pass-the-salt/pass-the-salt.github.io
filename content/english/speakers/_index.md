@@ -36,7 +36,7 @@ More expensive, with AC:<br>
 
 The best advice we can share is for <b>the location of the hotel</b>: <b>try to stay around the Bruxelles or Flandres stations area</b>. This way you will be near the center of Lille and also near the "Gare Lille Flandres" bus stop where you will take the bus n°5 to reach the conference location.<br><br>
 
-**Important:** other practical information (location, how to come, eat/drink etc) are available on the [dedicated practical info page](/practical/) !<br><br>
+**Important:** other practical information (location, how to come etc) are available on the [dedicated practical info page](/practical/) !<br><br>
 
 # Talks & slides
 
@@ -49,7 +49,7 @@ The best advice we can share is for <b>the location of the hotel</b>: <b>try to 
 **Speaker deck template and format:** Pass the SALT does not provide nor require any kind of template. We prefer to receive PDF files. You can also provide LibreOffice format if you preferred. Powerpoint, anyone? You are at Pass the SALT, please ;-)
 <br><br>
 
-**Code of Conduct:** Pass the SALT has a [code of conduct](https://2024.pass-the-salt.org/code-of-conduct/) for attendees and for speakers too, obviously. Your words and your slides will have to follow it without exception. Thanks in advance!
+**Code of Conduct:** Pass the SALT has a [code of conduct](/code-of-conduct/) for attendees and for speakers too, obviously. Your words and your slides will have to follow it without exception. Thanks in advance!
 <br><br>
 
 **Logo:** you can use our logo on your speaker deck. The correct source for it is in this [repository]( https://github.com/pass-the-salt/2024-communication/tree/main/logo/). 

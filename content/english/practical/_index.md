@@ -28,12 +28,13 @@ ref: Practical
 
 <img src="/images/bus-5-gare-lille-flandres.jpg" alt="Bus stop Line 5 near Gare Lille Flandres" width="50%"/> <br>
 
-- **Bus:** take line **L5** (~17min) 
+- **Bus:** take line **L5**
   - **Bus stop:** _"Gare Lille Flandres"_ [bus stop](https://maps.app.goo.gl/DhmhktrX1PyJCVrh6). 
       - From the Lille Flandres station exit: 150m on your right. 
       - From the Lille Europe station exit: 300m in direction to the center of Lille.
   - **Direction:** _"Le Parc (Haubourdin)"_
   - **Exit:** _"Université Catholique"_ stop
+  - **Duration:** ~17min
   - _More info about the public transport network in Lille: [ilevia.fr](https://www.ilevia.fr/itineraires)_
 - **On foot:** 30min.
 
