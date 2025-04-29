@@ -13,7 +13,7 @@ You will find on this page specific information for speakers (slides, rooms equi
 
 # Speakers dinner
 
-On Tuesday July 1 evening, we will have a lunch with all the speakers who have accepted to come and the org team.<br><br>
+On Tuesday July 1 evening, we will have a dinner with all the speakers who have accepted to come and the org team.<br><br>
 It will be held at :
 - Location will be updated during May
 - Maps: to come
