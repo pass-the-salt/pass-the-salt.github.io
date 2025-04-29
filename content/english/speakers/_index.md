@@ -60,11 +60,11 @@ The best advice we can share is for <b>the location of the hotel</b>: <b>try to 
 
 # Lecture hall
 
-We will provide all information about rooms facilities (projectors, screens, plugs etc) as soon as we will get them.
+The projector will provide a 16:9 image ratio and an input HDMI port. A desk with sound will be available for speakers.
 
 # Workshop room
 
-Rooms will have a screen and projector.
+Rooms will have a screen and a projector (16:9, HDMI input port).
 
 # Recording 
 This year, your talk will be live streamed and recorded by our friends from [Ubicast](https://ubicast.eu/en/). The video will then be uploaded to our [Pass the SALT page on Ubicast portal](https://passthesalt.ubicast.tv/) and also on our [archives site](https://archives.pass-the-salt.org/Pass%20the%20SALT/).

@@ -54,7 +54,7 @@ To book trains:
 <br>
 
 ## Registration
-The booking website will be online on May, 1st 2025.
+The booking website will be online on May, 5th 2025.
 
 Before coming to the conference:
 - Be registered online 
@@ -72,8 +72,6 @@ You'll be able to find lunchtime refreshments close to the school. More precise 
 - It will be held during Wednesday July 2 evening. 
 - To access, your badge will be required. 
 - **Important:** the first 2 drinks are paid by the event with usually some light food. The rest of the food/beers/softs will be at your charge ;) 
-
-
 
 <!--
 **For lunch:** <br>
