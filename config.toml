@@ -53,7 +53,7 @@ link = "plugins/slick/slick.min.js"
 
 [[menu.main]]
 name = "About"
-url = "https://2024.pass-the-salt.org/#description"
+url = "https://2025.pass-the-salt.org/#description"
 weight = 1
 
 [[menu.main]]
