@@ -7,16 +7,17 @@ ref: Speakers
 
 <a href="#speakers-dinner">Speakers dinner</a> | <a href="#hotels">How to sleep</a> | <a href="#talks--slides">Your presentation</a> | <a href="#lecture-hall"> Lecture Hall</a> | <a href="#workshop-room"> Workshop Room</a> | <a href="#recording"> Recording</a> | <a href="#network-access"> Network</a><br><br>
 
-You will find on this page specific information for speakers (slides, rooms equipments, setup testing recommandation) and also, the speakers dinner and some not so trustable advices about hotels ;-) <br><br>
+You will **find on this page specific information for speakers** (slides, rooms equipments, setup testing recommandation) and also, the speakers dinner and some not so trustable advices about hotels ;-) <br><br>
 
 **IMPORTANT:** **all other practical information** (conference location, how to come, registration, eat/drink/social event ...) are located on the [general practical info page](/practical/).<br><br>
 
 # Speakers dinner
 
 On Tuesday July 1 evening, we will have a dinner with all the speakers who have accepted to come and the org team.<br><br>
-It will be held at :
-- Location will be updated during May
-- Maps: to come
+
+The meeting point will be in front of the Lille Flandres Station main entrance in order to go together to the restaurant leaving at 7:00PM/19h00:<br>
+
+<img src="/images/meeting-point.jpg" alt="meeting-point" width="50%"/> <br> 
 
 The dinner will be paid by the event, with a package for the drinks.<br><br>
 
@@ -60,7 +61,15 @@ The best advice we can share is for <b>the location of the hotel</b>: <b>try to 
 
 # Lecture hall
 
-The projector will provide a 16:9 image ratio and an input HDMI port. A desk with sound will be available for speakers.
+The lecture hall description and features:
+- 270 people max
+- FR electricity plugs every two seats
+- a main screen and 1 TV screen on each side
+- 16:9 image ratio
+- input HDMI port and some adaptors (protip: come with yours you know they work with your laptop).
+- a desk with sound will be available for speakers.
+
+<img src="/images/hall1.jpg" alt="lecture hall" width="50%"/>
 
 # Workshop room
 
@@ -70,7 +79,7 @@ Rooms will have a screen and a projector (16:9, HDMI input port).
 This year, your talk will be live streamed and recorded by our friends from [Ubicast](https://ubicast.eu/en/). The video will then be uploaded to our [Pass the SALT page on Ubicast portal](https://passthesalt.ubicast.tv/) and also on our [archives site](https://archives.pass-the-salt.org/Pass%20the%20SALT/).
 
 # Network access
-Wi-fi is expected and we will work to get non filtered SSH output among other things.  
+Wi-fi is expected and we will work to get non filtered SSH output among other things.
 
 
 

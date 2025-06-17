@@ -15,6 +15,8 @@ ref: Practical
 
 ## Conference location
 
+<img src="/images/university-entrance.jpg" alt="Entrance of the Université catholique de Lille" width="50%"/> <br>
+
 - **Address:** <a href="https://www.univ-catholille.fr/en/">Université Catholique de Lille </a>:
 83 Bd Vauban, 59800 Lille<br />
 - **Inside school location:** 
