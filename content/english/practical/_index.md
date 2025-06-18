@@ -6,7 +6,7 @@ published: true
 lang: en
 ref: Practical
 ---
-<a href="#conference-location">How to come</a> | <a href="#registration"> Registration</a> | <a href="#social-event"> Social event</a> | <a href="#pauses"> Pauses </a> | <a href="#mid-day-lunchs"> Lunchs</a>
+<a href="#conference-location">Location & accessibility</a> | <a href="#coming-to-the-conference-location-from-lille-stations-area">How to come</a> | <a href="#registration"> Registration</a> | <a href="#social-event"> Social event</a> | <a href="#pauses"> Pauses </a> | <a href="#mid-day-lunchs"> Lunchs</a>
 <br><br>
 
 **NEW in 2025:** we are very pleased and honoured to announce that the 2025 edition of Pass the SALT conference will be held on the **Université Catholique de Lille** campus in Lille center.
@@ -24,6 +24,7 @@ ref: Practical
   - *building:* Louise WEISS 
   - *rooms:* amphi 122 + rooms LW109 & LW112)
 - **Maps:** <a href="https://maps.app.goo.gl/J2uYiRaoKP7VmMSk8" >Google Maps</a> | <a href="https://osm.org/go/0EgIjC2uR" >Openstreetmap</a> <br>
+- **Persons with reduced mobility:** the event is accessible but the entrance requires the presence of a staff member. The number to request assistance will be displayed at the entrance. The access to the workshops rooms from the main lecture hall will be done through a lift usable with a staff member.
 
 ## Coming to the conference location from Lille stations area 
 
