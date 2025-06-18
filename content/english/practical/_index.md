@@ -81,7 +81,9 @@ Before coming to the conference:
 - They are served at the start and half of each morning and afternoon.
 
 ## Mid day lunchs
-You'll be able to find lunchtime refreshments around the school (from 5 to 20min) from traditional restaurants to street food restaurants from all over the world.
+- Mid day lunchs are **not provided** by the organisation.
+- You'll be able to find lunchtime refreshments around the school (from 5 to 20min) from traditional restaurants to street food restaurants from all over the world.
+- **Mid day break** lasts **1h50 on Wednesday** July 2 and **2h00 on Thursday** July 3
 
 ## Social event
 - We will communicate during the event the social event location. 
