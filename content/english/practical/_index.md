@@ -35,19 +35,19 @@ You have **three main options** :
 1. **Bus: take line L5** (every ~10min)
   - **Bus stop:** _"Gare Lille Flandres"_ [bus stop](https://maps.app.goo.gl/DhmhktrX1PyJCVrh6). From the Lille Flandres station exit: 150m on your right. From the Lille Europe station exit: 300m in direction to the center of Lille.
   - **Direction:** _"Le Parc (Haubourdin)"_
-  - **Exit:** _"Université Catholique"_ stop and **then walk to the 83 Boulevard Vauban**, about 5min journey. 
+  - **Exit:** _"Université Catholique"_ stop and **then walk to the 83 Boulevard Vauban, about a 5min journey**. 
   - **Total duration:** ~17min
   - _More info about the public transport network in Lille: [ilevia.fr](https://www.ilevia.fr/itineraires)_
 2. **Metro:** line **M1** (every 2min)
   - **From:** _"Lille Flandres"_ station
   - **Direction:** _"Lille Chu Eurasanté"_
-  - **Exit:** _"Gambetta"_ stop and **then walk to the 83 Boulevard Vauban, about 13min journey**. 
+  - **Exit:** _"Gambetta"_ stop and **then walk to the 83 Boulevard Vauban, about a 13min journey**. 
   - **Total duration:** ~17min
   - _More info about the public transport network in Lille: [ilevia.fr](https://www.ilevia.fr/itineraires)_
 3. **Metro:** line **M2** (every 2min)
   - **From:** _"Lille Flandres"_ or _"Lille Europe"_ stations
   - **Direction:** _"Lomme St. Philibert"_
-  - **Exit:** _"Cormontaigne"_ stop and **then walk to the 83 Boulevard Vauban, about 10min journey**. 
+  - **Exit:** _"Cormontaigne"_ stop and **then walk to the 83 Boulevard Vauban, about a 10min journey**. 
   - **Total duration:** ~20min
   - _More info about the public transport network in Lille: [ilevia.fr](https://www.ilevia.fr/itineraires)_
 
@@ -82,7 +82,7 @@ Before coming to the conference:
 
 ## Mid day lunchs
 - Mid day lunchs are **not provided** by the organisation.
-- You'll be able to find lunchtime refreshments around the school (from 5 to 20min) from traditional restaurants to street food restaurants from all over the world.
+- You'll be able to find lunchtime refreshments around the school (from 5 to 20min walk) from traditional restaurants to street food restaurants from all over the world.
 - **Mid day break** lasts **1h50 on Wednesday** July 2 and **2h00 on Thursday** July 3
 
 ## Social event
