@@ -12,7 +12,7 @@ Pass the SALT is an event where we want everyone to feel safe and comfortable. W
 <br><br>
 **In case of problem :** 
 - you can contact Pass the SALT crew members (we'll be wearing specific t-shirts).
-- **New 2025:** a person will coordinate the application of this code of conduct and will be your main point of contact. His or her name will be announced during the opening conference. 
+- **New 2025:** a person will coordinate the application of this code of conduct and will be your main point of contact. Their name will be announced during the opening conference and they will wear a distinctif sign to be recognised. 
 
 **Conference reaction:** participants violating these rules may be sanctioned or expelled from the conference at the discretion of the conference organizers.<br>
 
