@@ -15,7 +15,10 @@ You will **find on this page specific information for speakers** (slides, rooms 
 
 On Tuesday July 1 evening, we will have a dinner with all the speakers who have accepted to come and the org team.<br><br>
 
-The meeting point will be in front of the Lille Flandres Station main entrance in order to go together to the restaurant leaving at 7:00PM/19h00:<br>
+This year, it will take place on Tuesday July 1 at 19h30/07:30PM at the first floor of **LA LUCK restaurant in the center of Lille (1 bis rue Princesse 59800 Lille)**.<br>
+<img src="/images/first-floor.png" alt="first floor restaurant" width="50%"/> <br> 
+
+The **meeting point will be in front of the Lille Flandres Station** main entrance (yellow statue) in order to go together to the restaurant **leaving at 19h00/7:00PM**. Of course, you can join us directly at the restaurant from 19h30/7:30PM. <br>
 
 <img src="/images/meeting-point.jpg" alt="meeting-point" width="50%"/> <br> 
 
@@ -53,7 +56,7 @@ The best advice we can share is for <b>the location of the hotel</b>: <b>try to 
 **Code of Conduct:** Pass the SALT has a [code of conduct](/code-of-conduct/) for attendees and for speakers too, obviously. Your words and your slides will have to follow it without exception. Thanks in advance!
 <br><br>
 
-**Logo:** you can use our logo on your speaker deck. The correct source for it is in this [repository]( https://github.com/pass-the-salt/2024-communication/tree/main/logo/). 
+**Logo:** you can use our logo on your speaker deck. The correct source for it is in this [repository]( https://github.com/pass-the-salt/2025-communication/tree/main/logo/). 
 <br><br>
 
 **IMPORTANT send us your speaker deck:** we will greatly appreciate if you can provide your slides before your talk or just after it. We try to provide them to all attendees (on-site and online ones) as soon as possible on our [archives site](https://archives.pass-the-salt.org/Pass%20the%20SALT/).
