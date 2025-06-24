@@ -87,10 +87,9 @@ Before coming to the conference:
 - **Mid day break** lasts **1h50 on Wednesday** July 2 and **2h00 on Thursday** July 3
 
 ## Social event
-- We will communicate during the event the social event location. 
-- It will be held during Wednesday July 2 evening. 
+- It will be held at the bar *"Les 3 brasseurs"* near the Lille Flandres Station exit on **Wednesday July 2 evening, starting at 19h30/07:30PM**. [Map](https://maps.app.goo.gl/KCbVGLYB5fcmgBKu9).
 - To access, your badge will be required. 
-- **Important:** the first 2 drinks are paid by the event with usually some light food. The rest of the food/beers/softs will be at your charge ;) 
+- **Important:** you will be able to get 2 free drinks **using the 2 coins** you have received getting your badge. The event usually paid also  for *some* light food. The rest of the food/beers/softs will be at your charge ;) 
 
 <!--
 **For lunch:** <br>
