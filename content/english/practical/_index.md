@@ -15,7 +15,7 @@ ref: Practical
 
 ## Conference location
 
-<img src="/images/university-entrance.jpg" alt="Entrance of the Université catholique de Lille" width="50%"/> <br>
+<img src="/images/university-entrance.jpg" alt="Entrance of the Université catholique de Lille" width="90%"/> <br>
 
 - **Address:** <a href="https://www.univ-catholille.fr/en/">Université Catholique de Lille </a>:
 83 Bd Vauban, 59800 Lille<br />
@@ -28,27 +28,27 @@ ref: Practical
 
 ## Coming to the conference location from Lille stations area 
 
-<img src="/images/bus-5-gare-lille-flandres.jpg" alt="Bus stop Line 5 near Gare Lille Flandres" width="50%"/> <br>
+<img src="/images/bus-5-gare-lille-flandres.jpg" alt="Bus stop Line 5 near Gare Lille Flandres" width="90%"/> <br>
 *How to reach the L5 bus stop at Gare Lille Flandres*
 
-You have **three main options** :
+You have **<u>3</u> main options** :
 
 1. **Bus: take line L5** (every ~10min)
   - **Bus stop:** _"Gare Lille Flandres"_ [bus stop](https://maps.app.goo.gl/DhmhktrX1PyJCVrh6). From the Lille Flandres station exit: 150m on your right. From the Lille Europe station exit: 300m in direction to the center of Lille.
   - **Direction:** _"Le Parc (Haubourdin)"_
-  - **Exit:** _"Université Catholique"_ stop and **then walk to the 83 Boulevard Vauban, about a 5min journey**. 
+  - **Exit:** _"Université Catholique"_ stop and **then a 5min walk to the 83 Boulevard Vauban**. 
   - **Total duration:** ~17min
   - _More info about the public transport network in Lille: [ilevia.fr](https://www.ilevia.fr/itineraires)_
 2. **Metro:** line **M1** (every 2min)
   - **From:** _"Lille Flandres"_ station
   - **Direction:** _"Lille Chu Eurasanté"_
-  - **Exit:** _"Gambetta"_ stop and **then walk to the 83 Boulevard Vauban, about a 13min journey**. 
+  - **Exit:** _"Gambetta"_ stop and **then a 13min walk to the 83 Boulevard Vauban**. 
   - **Total duration:** ~17min
   - _More info about the public transport network in Lille: [ilevia.fr](https://www.ilevia.fr/itineraires)_
 3. **Metro:** line **M2** (every 2min)
   - **From:** _"Lille Flandres"_ or _"Lille Europe"_ stations
   - **Direction:** _"Lomme St. Philibert"_
-  - **Exit:** _"Cormontaigne"_ stop and **then walk to the 83 Boulevard Vauban, about a 10min journey**. 
+  - **Exit:** _"Cormontaigne"_ stop and **then a 10min walk to the 83 Boulevard Vauban**. 
   - **Total duration:** ~20min
   - _More info about the public transport network in Lille: [ilevia.fr](https://www.ilevia.fr/itineraires)_
 

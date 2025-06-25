@@ -16,11 +16,11 @@ You will **find on this page specific information for speakers** (slides, rooms 
 On Tuesday July 1 evening, we will have a dinner with all the speakers who have accepted to come and the org team.<br><br>
 
 This year, it will take place on Tuesday July 1 at 19h30/07:30PM at the first floor of **LA LUCK restaurant in the center of Lille (1 bis rue Princesse 59800 Lille)**.<br>
-<img src="/images/first-floor.png" alt="first floor restaurant" width="50%"/> <br> 
+<img src="/images/first-floor.png" alt="first floor restaurant" width="90%"/> <br> 
 
 The **meeting point will be in front of the Lille Flandres Station** main entrance (yellow statue) in order to go together to the restaurant **leaving at 19h00/7:00PM**. Of course, you can join us directly at the restaurant from 19h30/7:30PM. <br>
 
-<img src="/images/meeting-point.jpg" alt="meeting-point" width="50%"/> <br> 
+<img src="/images/meeting-point.jpg" alt="meeting-point" width="90%"/> <br> 
 
 The dinner will be paid by the event, with a package for the drinks.<br><br>
 
@@ -72,7 +72,7 @@ The lecture hall description and features:
 - input HDMI port and some adaptors (protip: come with yours you know they work with your laptop).
 - a desk with sound will be available for speakers.
 
-<img src="/images/hall1.jpg" alt="lecture hall" width="50%"/>
+<img src="/images/hall1.jpg" alt="lecture hall" width="90%"/>
 
 # Workshop room
 
