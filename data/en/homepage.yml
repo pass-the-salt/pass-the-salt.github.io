@@ -6,8 +6,8 @@ banner:
   image: "images/logo-pts23.png"
   button:
     enable: true
-    label: "Book your seat!"
-    link: "https://pretix.eu/passthesalt/2025/"
+    label: ">>> Live stream (starting at July 1, 14h)!"
+    link: "https://live.pass-the-salt.org/"
 
 ############################# description ############################
 description:
@@ -60,8 +60,8 @@ timeline:
     January 15, 2025: opening of the Call For Papers<br />
     March 30, 2025: closing of the Call For Papers<br/>
     Late April, 2025: notification to the speakers<br/>
-    <span style='color:$primary-color'><b> May 5, 2025: publication of the program & booking site</b></span><br />
-    July 1 to 3, 2025 : the conference"
+    May 5, 2025: publication of the program & booking site<br />
+    <span style='color:$primary-color'><b> July 1 to 3, 2025 : the conference</b></span>"
 
 ############################## Testimonial ##########################
 testimonial:
@@ -196,34 +196,27 @@ sponsors:
   #   url: "https://www.polytech-lille.fr/"
   #   height: "74"
   #   width: "206"
-  # - name: "Pretix"
-  #   designation: "FLOSS Event Booking service"
-  #   image: "images/sponsors/pretix.svg"
-  #   content: ""
-  #   url: "https://www.pretix.eu/"
-  #   height: "74"
-  #   width: "160"
-  # - name: "Pretalx"
-  #   designation: "FLOSS CFP solution"
-  #   image: "images/sponsors/pretalx.svg"
-  #   content: ""
-  #   url: "https://www.pretalx.com/"
-  #   height: "74"
-  #   width: "160"
-  # - name: "Cooper"
-  #   designation: "Talks streaming & recording"
-  #   image: "images/sponsors/ministraitor02.svg"
-  #   content: ""
-  #   url: "https://administraitor.video/"
-  #   height: "100"
-  #   width: "300"
-#    - name: "Ubicast"
-#      designation: "Video capture/streaming partner"
-#      image: "images/sponsors/ubicast.png"
-#      content: ""
-#      url: "https://www.ubicast.eu/"
-#      height: "70"
-#      width: "255"
+  - name: "Pretix"
+    designation: "FLOSS Event Booking service"
+    image: "images/sponsors/pretix.svg"
+    content: ""
+    url: "https://www.pretix.eu/"
+    height: "74"
+    width: "160"
+  - name: "Pretalx"
+    designation: "FLOSS CFP solution"
+    image: "images/sponsors/pretalx.svg"
+    content: ""
+    url: "https://www.pretalx.com/"
+    height: "74"
+    width: "160" 
+  - name: "Ubicast"
+    designation: "Video capture/streaming partner"
+    image: "images/sponsors/ubicast.png"
+    content: ""
+    url: "https://www.ubicast.eu/"
+    height: "70"
+    width: "255"
 
 ############################# promo ############################
 promo:
