@@ -52,6 +52,11 @@ url = "https://cfp.pass-the-salt.org/pts2025/schedule/"
 weight = 2
 
 [[menu.main]]
+name = "Rumps Submission"
+url = "https://framaforms.org/rumps-pass-the-salt-2025-1751387524"
+weight = 3
+
+[[menu.main]]
 name = "Practical"
 url = "https://2025.pass-the-salt.org/practical/"
 weight = 4
