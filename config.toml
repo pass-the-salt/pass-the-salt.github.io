@@ -98,7 +98,7 @@ weight = 6
 
 [[menu.main]]
 name = "Archives"
-url = "https://www.pass-the-salt.org/archives/"
+url = "https://passthesalt.ubicast.tv"
 weight = 7
 
 # [[menu.main]]

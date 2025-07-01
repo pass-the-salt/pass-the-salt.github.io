@@ -6,8 +6,8 @@ banner:
   image: "images/logo-pts23.png"
   button:
     enable: true
-    label: ">>> Live stream (starting at July 1, 14h)!"
-    link: "https://live.pass-the-salt.org/"
+    label: ">>> Live stream"
+    link: "https://passthesalt.ubicast.tv/lives/live-pass-the-salt-2025/"
 
 ############################# description ############################
 description:
