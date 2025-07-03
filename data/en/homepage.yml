@@ -6,8 +6,8 @@ banner:
   image: "images/logo-pts23.png"
   button:
     enable: true
-    label: ">>> Live stream"
-    link: "https://passthesalt.ubicast.tv/lives/live-pass-the-salt-2025/"
+    label: ">>> Videos"
+    link: "https://passthesalt.ubicast.tv/channels/#2025"
 
 ############################# description ############################
 description:

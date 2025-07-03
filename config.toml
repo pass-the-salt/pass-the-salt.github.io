@@ -52,9 +52,14 @@ url = "https://cfp.pass-the-salt.org/pts2025/schedule/"
 weight = 2
 
 [[menu.main]]
-name = "Rumps Submission"
-url = "https://framaforms.org/rumps-pass-the-salt-2025-1751387524"
+name = "Videos"
+url = "https://passthesalt.ubicast.tv/channels/#2025"
 weight = 3
+
+[[menu.main]]
+name = "Slides"
+url = "https://archives.pass-the-salt.org/Pass%20the%20SALT/2025/slides/"
+weight = 4
 
 [[menu.main]]
 name = "Practical"
@@ -73,7 +78,7 @@ weight = 6
 
 [[menu.main]]
 name = "Archives"
-url = "https://passthesalt.ubicast.tv"
+url = "https://www.pass-the-salt.org/archives/"
 weight = 7
 
 [[menu.footer]]
